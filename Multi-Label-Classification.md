@@ -57,7 +57,7 @@ Here’s a **summary of the most important Problem Framing questions** — the o
 
 ---
 
-## 🔁 4. Feedback & Retraining Loop
+#### 🔁 4. Feedback & Retraining Loop
 
 * Will users be able to **correct labels**?
   → If so, how is feedback captured (UI? logs?)
@@ -68,7 +68,7 @@ Here’s a **summary of the most important Problem Framing questions** — the o
 
 ---
 
-## 🧱 5. Integration & Downstream
+#### 🧱 5. Integration & Downstream
 
 * Where will predictions be stored or consumed?  
   → task system, search index, analytics dashboards, etc.
