@@ -1,4 +1,5 @@
 # Multi-Label Theme Classification for Meeting Notes
+Code: https://colab.research.google.com/gist/ywang1110/65a60f7c6621d4fc67aacdafad987913/meeting_notes_multilabel_bert.ipynb
 ## Problem Framing (5-7 min)
 ### 🎯 1. Clarify the Business Goal
 
